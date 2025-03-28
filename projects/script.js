@@ -20,6 +20,7 @@ projects.forEach((project) => {
         projectLink.href = project.link
         projectLink.classList.add("underline")
         projectLink.textContent = "↗ View Project"
+        projectLink.target = "_blank"
         projectCard.appendChild(projectLink)
     }
 
