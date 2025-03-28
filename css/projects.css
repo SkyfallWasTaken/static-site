@@ -15,6 +15,12 @@ li {
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
+  transition: all 0.1s ease-in-out;
+  cursor: pointer;
+}
+
+li:hover {
+  filter: brightness(1.1);
 }
 
 li h2,

@@ -24,5 +24,6 @@ projects.forEach((project) => {
         projectCard.appendChild(projectLink)
     }
 
+    projectCard.classList.add("border")
     projectsList.appendChild(projectCard)
 })
