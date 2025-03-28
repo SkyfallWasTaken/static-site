@@ -1,0 +1,42 @@
+[
+    {
+        "title": "skyfall.dev",
+        "description": "My main personal site, built with Astro and Tailwind!",
+        "link": "https://skyfall.dev"
+    },
+    {
+        "title": "Archimedes",
+        "description": "A helpful newspaper bot for Hack Club - handles story writing, editor approvals, and auto-generation of both Slack messages and newsletter emails",
+        "link": "https://github.com/hackclub/archimedes"
+    },
+    {
+        "title": "High Seas Monitor",
+        "description": "Real-time inventory and price alerts for Hack Club's High Seas Shop",
+        "link": "https://monitor.highseas.shop"
+    },
+    {
+        "title": "High Seas v2",
+        "description": "A faster, more optimised version of the High Seas website. Scaled to 600+ users across 2 days. Also includes High Seas Wrapped, a Spotify Wrapped clone for High Seas (used over 500 times)",
+        "link": "https://highseas.shop"
+    },
+    {
+        "title": "Phantom",
+        "description": "A fantasy OS for the web - includes a persisted filesystem, terminal history, Python support and more!",
+        "link": "https://phantom.skyfall.dev"
+    },
+    {
+        "title": "Pocketbrain",
+        "description": "A fast Brainf**k interpreter, with tests and full language support",
+        "link": "https://github.com/skyfalldev/pocketbrain"
+    },
+    {
+        "title": "Vortex Email",
+        "description": "Ad-free temporary email service with 10+ (sub)domains for maximum flexibility",
+        "link": "https://vortex.name"
+    },
+    {
+        "title": "WakaTime for Figma",
+        "description": "Browser extension that brings WakaTime's time-tracking capabilities to Figma",
+        "link": "https://github.com/skyfalldev/wakatime-figma"
+    }
+]

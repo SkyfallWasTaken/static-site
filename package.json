@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "_note": "echo 'This isn't actually required for the site to work, it's just nice to use for development.'",
+        "start": "bun index.html ./**/* ./data/projects.json",
+        "dev": "bun start"
+    }
+}
