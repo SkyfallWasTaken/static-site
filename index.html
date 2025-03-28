@@ -13,6 +13,9 @@
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="/skyfall.png" />
+
+    <script src="https://sfxr.me/riffwave.js"></script>
+    <script src="https://sfxr.me/sfxr.js"></script>
   </head>
   <body>
     <div class="container">
@@ -29,12 +32,14 @@
             Geoguessr, although I'm not exactly good at it :)
           </p>
         </div>
-        <img
-          src="https://skyfall.dev/_astro/logo.BZI6fuo4_1AndRm.webp"
-          alt="Skyfall"
-          width="200"
-          height="200"
-        />
+        <button onclick="sfxr.play(sfxr.generate('laserShoot'))">
+          <img
+            src="https://skyfall.dev/_astro/logo.BZI6fuo4_1AndRm.webp"
+            alt="Skyfall"
+            width="200"
+            height="200"
+          />
+        </button>
       </div>
       <hr />
       <div class="content">

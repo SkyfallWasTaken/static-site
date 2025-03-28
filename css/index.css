@@ -21,3 +21,10 @@
   border-radius: 32px;
   margin-right: 20px;
 }
+
+button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
