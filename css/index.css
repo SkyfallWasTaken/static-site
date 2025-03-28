@@ -27,4 +27,5 @@ button {
   border: none;
   padding: 0;
   cursor: pointer;
+  outline: none; /* Remove default focus outline */
 }
