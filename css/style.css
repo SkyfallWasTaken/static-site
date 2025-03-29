@@ -77,14 +77,18 @@ a {
   max-width: 800px;
   padding: 0 20px;
   margin-inline: auto;
-  min-height: 100vh; /* Full viewport height */
-  display: flex; /* Make it a flex container */
-  flex-direction: column; /* Stack children vertically */
 }
 
-/* Content styles */
-.content {
-  flex: 1; /* Make content area grow and push footer down */
+.push-down-footer {
+  .container {
+    min-height: 100vh; /* Full viewport height */
+    display: flex; /* Make it a flex container */
+    flex-direction: column; /* Stack children vertically */
+  }
+
+  .content {
+    flex: 1; /* Make content area grow and push footer down */
+  }
 }
 
 /* Border styles */
