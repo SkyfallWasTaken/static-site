@@ -75,7 +75,6 @@ a {
 .container {
   margin: 0 auto;
   max-width: 800px;
-  padding: 0 20px;
   margin-inline: auto;
 }
 
@@ -99,8 +98,7 @@ a {
 /* Footer styles */
 .footer {
   text-align: center;
-  margin-top: 1.2rem;
-  margin-bottom: 1rem;
+  margin: 1.2rem 0 1.5rem 0;
   padding: 0.7rem 0 0.7rem 0;
   background-color: var(--mocha-mantle);
   border-radius: 12px;
